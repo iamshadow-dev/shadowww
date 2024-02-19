@@ -1,0 +1,22 @@
+body {
+  font-family: montserrat, sans-serif;
+  background-color: #141414; /* Darker version of black */
+  color: #f1efef; /* White text color */
+  flex: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: justify;
+  font-size: small;
+}
+
+h2 {
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: large;
+    background-color: #7014b7;
+    
+
+}
